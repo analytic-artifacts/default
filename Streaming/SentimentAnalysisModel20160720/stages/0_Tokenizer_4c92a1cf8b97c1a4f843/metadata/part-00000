@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Tokenizer","timestamp":1469076845834,"sparkVersion":"1.6.0","uid":"Tokenizer_4c92a1cf8b97c1a4f843","paramMap":{"inputCol":"tweet","outputCol":"tweet_words"}}
