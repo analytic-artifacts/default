@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.ibm.transformers.Join","timestamp":1469187829101,"sparkVersion":"1.6.0","uid":"Join_860bfb013d57","paramMap":{"expr":"df1.c1 = df2.c2","transformerMapping":"Filter_b2ebc323a260,Filter_c58be0a46219","joinType":"inner"}}
