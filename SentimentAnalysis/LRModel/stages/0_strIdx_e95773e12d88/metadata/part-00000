@@ -1,1 +1,1 @@
-{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1470224474061,"sparkVersion":"1.6.0","uid":"strIdx_e95773e12d88","paramMap":{"inputCol":"sentiment","handleInvalid":"error","outputCol":"label"}}
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1470224682399,"sparkVersion":"1.6.0","uid":"strIdx_e95773e12d88","paramMap":{"inputCol":"sentiment","handleInvalid":"error","outputCol":"label"}}
