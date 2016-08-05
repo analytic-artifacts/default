@@ -1,1 +1,1 @@
-{"class":"com.ibm.analytics.ngp.pipeline.IBMSparkPipeline","timestamp":1470379691695,"sparkVersion":"1.6.0","uid":"IBMSparkPipeline_c89f4386576f","paramMap":{"stageUids":["strIdx_29d39aaebf3d","oneHot_57942c29cb44","vecAssembler_8beb37a995a3","kmeans_43d211b5a780"]}}
+{"class":"com.ibm.analytics.ngp.pipeline.IBMSparkPipeline","timestamp":1470380151635,"sparkVersion":"1.6.0","uid":"IBMSparkPipeline_2d6612a516af","paramMap":{"stageUids":["strIdx_70928a19fddd","oneHot_61c423d80b23","vecAssembler_6331f96c3a6a","kmeans_a45a219c9f22"]}}
