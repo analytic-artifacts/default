@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1470635350188,"sparkVersion":"1.6.0","uid":"vecAssembler_391f5f623b0a","paramMap":{"outputCol":"features","inputCols":["income","genderVec"]}}
