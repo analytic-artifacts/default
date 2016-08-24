@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1472033346395,"sparkVersion":"1.6.0","uid":"strIdx_df3af0cc6bca","paramMap":{"outputCol":"userGroup","inputCol":"groupName","handleInvalid":"error"}}
