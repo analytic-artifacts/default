@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.ibm.transformers.Sort","timestamp":1473237993908,"sparkVersion":"1.6.0","uid":"Sort_ff0755774b82","paramMap":{"sortexpr":{"id":"asc","turnOver":"desc"}}}
