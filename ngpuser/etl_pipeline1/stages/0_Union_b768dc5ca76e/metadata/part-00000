@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.ibm.transformers.Union","timestamp":1473614433707,"sparkVersion":"1.6.0","uid":"Union_b768dc5ca76e","paramMap":{"isUnionAll":false,"transformerMapping":"Filter_b12de8c5661d,Filter_19ceed3daab8"}}
