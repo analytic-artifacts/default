@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.ibm.transformers.Filter","timestamp":1473944257272,"sparkVersion":"1.6.0","uid":"Filter_c58bd55f305d","paramMap":{"conditionExpr":"turnOver > 120000.00"}}
