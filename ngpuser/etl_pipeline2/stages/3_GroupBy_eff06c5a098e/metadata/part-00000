@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.ibm.transformers.GroupBy","timestamp":1474005731458,"sparkVersion":"1.6.0","uid":"GroupBy_eff06c5a098e","paramMap":{"str":["min(commAmt)","max(turnOver)"],"col":["country","name"]}}
