@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1473876329416,"sparkVersion":"1.6.0","uid":"strIdx_b06b8e8f094e","paramMap":{"inputCol":"CatFeature3","outputCol":"indexedCat3","handleInvalid":"skip"}}
